@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --background-color: #fffdfa;
+    --text-color: #00001a;
+    --description-color: #5e607a;
+    --button-color: #f15051;
+    --h2-color: #e9aa52;
+    --desciption2-color: #c5c6ce;
+}
+
+body {
+    padding: 1.75rem 1rem;
+    background-color: var(--background-color);
+}
+
+.header-mobile {
+    
+}
